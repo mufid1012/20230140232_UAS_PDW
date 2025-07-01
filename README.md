@@ -54,6 +54,9 @@ Aplikasi manajemen praktikum berbasis PHP Native, MySQL, dan Tailwind CSS.
 ### Manajemen Modul
 ![Dashboard Asisten](screenshots/laporan_masuk.png)
 
+### Manajemen Pengguna
+![Dashboard Asisten](screenshots/manajemen_pengguna.png)
+
 ---
 
 ## Instalasi
