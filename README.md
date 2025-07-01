@@ -24,8 +24,6 @@ Aplikasi manajemen praktikum berbasis PHP Native, MySQL, dan Tailwind CSS.
 
 ## Tampilan Antarmuka (UI)
 
-> **Catatan:** Simpan semua screenshot di folder `screenshots/` di root project. Ganti nama file sesuai kebutuhan.
-
 ### Login
 ![Login](screenshots/login.png)
 
