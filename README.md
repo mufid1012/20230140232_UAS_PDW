@@ -39,7 +39,7 @@ Aplikasi manajemen praktikum berbasis PHP Native, MySQL, dan Tailwind CSS.
 ### Detail Praktikum Saya
 ![Dashboard Mahasiswa](screenshots/praktikum_saya_detail.png)
 
-### Detail Praktikum Saya
+### Katalog Praktikum
 ![Dashboard Mahasiswa](screenshots/katalog_praktikum.png)
 
 ### Dashboard Asisten
